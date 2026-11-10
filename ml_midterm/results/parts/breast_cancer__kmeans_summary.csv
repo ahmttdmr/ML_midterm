@@ -1,3 +1,0 @@
-dataset,representation,train_inertia_mean,train_inertia_std,train_inertia_valid_seeds,val_ari_mean,val_ari_std,val_ari_valid_seeds,val_silhouette_mean,val_silhouette_std,val_silhouette_valid_seeds
-breast_cancer,unscaled,51270883.70899662,1949606.9972283738,3,0.5043486495309917,0.1064233680591242,3,0.6773250879404998,0.033439748908116636,3
-breast_cancer,scaled,7948.1086702007815,47.57426830920163,3,0.5812545112727957,0.1423776879351296,3,0.31208646113886335,0.05472533814926328,3

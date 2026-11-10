@@ -1,3 +1,0 @@
-dataset,representation,train_inertia_mean,train_inertia_std,train_inertia_valid_seeds,val_ari_mean,val_ari_std,val_ari_valid_seeds,val_silhouette_mean,val_silhouette_std,val_silhouette_valid_seeds
-wine,unscaled,1348308.4989863879,43580.90975877291,3,0.3613372200641031,0.06798375472947764,3,0.576517302158987,0.10142458189232637,3
-wine,scaled,879.1403866631495,9.86094839038012,3,1.0,0.0,3,0.27507731516789297,0.024779696413614747,3

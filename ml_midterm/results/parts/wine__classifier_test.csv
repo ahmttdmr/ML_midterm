@@ -1,2 +1,0 @@
-dataset,selected_config,eval_seed,mean_val_macro_f1,std_val_macro_f1,test_accuracy,test_macro_precision,test_macro_recall,test_macro_f1,test_roc_auc
-wine,wine_knn_scaled_k11,42,0.9813519813519814,0.032299315758860164,1.0,1.0,1.0,1.0,1.0

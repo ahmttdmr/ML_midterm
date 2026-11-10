@@ -1,7 +1,0 @@
-dataset,run_id,seed,representation,n_clusters,train_inertia,val_ari,val_silhouette,val_n_distinct_clusters
-breast_cancer,breast_cancer_kmeans_unscaled_c2_s42,42,unscaled,2,51565380.54475834,0.39946200403496973,0.6387246056900386,2
-breast_cancer,breast_cancer_kmeans_scaled_c2_s42,42,scaled,2,7918.810073369004,0.45155686222103436,0.28544796979282216,2
-breast_cancer,breast_cancer_kmeans_unscaled_c2_s52,52,unscaled,2,49190782.17876174,0.6122448979591837,0.6974731996701026,2
-breast_cancer,breast_cancer_kmeans_scaled_c2_s52,52,scaled,2,8003.001044703405,0.558608787999469,0.3750308588988688,2
-breast_cancer,breast_cancer_kmeans_unscaled_c2_s62,62,unscaled,2,53056488.40346976,0.5013390465988217,0.6957774584613584,2
-breast_cancer,breast_cancer_kmeans_scaled_c2_s62,62,scaled,2,7922.514892529938,0.7335978835978836,0.27578055472489904,2
