@@ -1,0 +1,3 @@
+dataset,representation,eval_seed,n_clusters,n_test,test_ari,test_silhouette,cluster_0_count,cluster_1_count
+breast_cancer,unscaled,42,2,114,0.5584884553059529,0.7119990457943489,86,28
+breast_cancer,scaled,42,2,114,0.7353808445227874,0.3250621931086193,74,40
