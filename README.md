@@ -26,7 +26,7 @@ Open each notebook and run **Kernel → Restart & Run All**. Run `breast_cancer.
 
 ## Environment
 - Python: 3.13.x  <!-- TODO: write your exact version (python --version) -->
-- Exact package versions: see `requirements.txt` (also printed in the first cell of each notebook).
+- Exact package versions: see `requirements.txt`
 
 ## Data sources
 - Breast Cancer Wisconsin (Diagnostic): `sklearn.datasets.load_breast_cancer`
